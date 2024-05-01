@@ -1,0 +1,38 @@
+---
+title: "Goals for this Semester"
+author: "Matthew Mecham"
+date: "2024-04-30"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+# My Primary Goal for this Semester
+
+My primary goal for this semester is to help OpenTeams develop a python package called Narwhals.
+
+![Figure 1: Narwhals](C:\Users\arvel\OneDrive\Desktop\Current Classes\DS 499\BlogQuarto\Narwhals.jpg)
+
+The goal of the Narwhals package is to provide a simple transition between the Polars and Pandas packages in Python. These packages are two of the most used packages for data cleaning, munging and manipulation. Mason and I will both be working on this project and working towards developing a smooth transition between the grandfather library Pandas and the speedy, sleek library that is Polars. 
+
+### Why is this library valuable? 
+
+More and more, we will see a transition to the faster, sleeker Polars over Pandas; this library becomes important as that transition becomes more and more apparent. There is always difficulties in times of transition as expansive data projects move towards more streamlined tools such as Polars. Making this transition smooth will push these larger corporations to use better tools faster.  
+
+
+# Blog Posts
+
+In order to show progress that I have made and to further develop skills in other areas of data science and engineering, I will be creating blog posts throughout the semester. These blog posts will aim to highlight progress on my primary objective for the semester and to illustrate progress in other areas; some of the blog posts that I would like to create include:
+
+- Data Science's role in agriculture
+- Scala's Role in Data Engineering
+- Reliable Data Pipelines and their Implementation
+
+These are the posts that I would like to create and I hope to develop others throughout the semester. 
+
+## Other Areas of Development
+
+One area of data science that I find interesting is data engineering. I would love to learn more about what it entails and why it is valuable. I would like to develop a data pipeline for ranches and other agricultural industries. I have discussed the possibilty with two ranches so far, one in Eastern Oregon and the other in Northern Nevada. There is vast area for improvement with data in the agricultural industry and I believe that data implementation can improve ranching. For this project, I will be working with breeding data in an effort to improve cattle through artificial selection. 
+
+![Figure 2: Red Angus](C:\Users\arvel\OneDrive\Desktop\Current Classes\DS 499\BlogQuarto\red-angus-1.jpg)
+
+greeettidjgpasdlogas;lkdhg;lsahdgl

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "FirstPost.html",
+    "href": "FirstPost.html",
+    "title": "Goals for this Semester",
+    "section": "",
+    "text": "My primary goal for this semester is to help OpenTeams develop a python package called Narwhals.\n\n\n\nFigure 1: Narwhals\n\n\nThe goal of the Narwhals package is to provide a simple transition between the Polars and Pandas packages in Python. These packages are two of the most used packages for data cleaning, munging and manipulation. Mason and I will both be working on this project and working towards developing a smooth transition between the grandfather library Pandas and the speedy, sleek library that is Polars.\n\n\nMore and more, we will see a transition to the faster, sleeker Polars over Pandas; this library becomes important as that transition becomes more and more apparent. There is always difficulties in times of transition as expansive data projects move towards more streamlined tools such as Polars. Making this transition smooth will push these larger corporations to use better tools faster."
+  },
+  {
+    "objectID": "FirstPost.html#other-areas-of-development",
+    "href": "FirstPost.html#other-areas-of-development",
+    "title": "Goals for this Semester",
+    "section": "Other Areas of Development",
+    "text": "Other Areas of Development\nOne area of data science that I find interesting is data engineering. I would love to learn more about what it entails and why it is valuable. I would like to develop a data pipeline for ranches and other agricultural industries. I have discussed the possibilty with two ranches so far, one in Eastern Oregon and the other in Northern Nevada. There is vast area for improvement with data in the agricultural industry and I believe that data implementation can improve ranching. For this project, I will be working with breeding data in an effort to improve cattle through artificial selection.\n\n\n\nFigure 2: Red Angus"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "About\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nMatthew Mecham\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/about.html",
+    "href": "posts/welcome/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
